@@ -1,5 +1,5 @@
 
-## Olá! Meu nome é Wagner Rangel, sou estudante de sistemas de informação e estou embusca do meu primeiro emprego na área de programação. 
+## Olá! Meu nome é Wagner Rangel, sou estudante de sistemas de informação.
 ### Minha áreas de interesse são Desenvolvimento Web frontend, backend e cybersecurity  👋
 
 <!--

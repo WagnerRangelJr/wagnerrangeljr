@@ -12,11 +12,10 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 💪Me formar 
-- 💼Conseguir um emprego 
-- 💻Fazer 20 projetos 1/20📈
-- 📖 Atualmente fazendo projetos em react e python.
-- 🤝Procurando projetos open source para contriubir
+- 💪Me formar- Done
+- 💼Conseguir um emprego - Done 
+- 💻Fazer 20 projetos 5/20📈
+- 📖 Atualmente fazendo projetos em typescript e AI.
 
 
 
